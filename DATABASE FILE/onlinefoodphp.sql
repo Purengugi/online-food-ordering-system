@@ -194,6 +194,7 @@ INSERT INTO `users` (`u_id`, `username`, `f_name`, `l_name`, `email`, `phone`, `
 (4, 'christine', 'Christine', 'Moore', 'christine@mail.com', '7412580010', '5f4dcc3b5aa765d61d8327deb882cf99', '114 Test Address', 1, '2024-04-01 05:14:42'),
 (5, 'scott', 'Scott', 'Miller', 'scott@mail.com', '7896547850', '5f4dcc3b5aa765d61d8327deb882cf99', '63 Charack Road', 1, '2024-04-27 10:53:51'),
 (6, 'liamoore', 'Liam', 'Moore', 'liamoore@mail.com', '7896969696', '5f4dcc3b5aa765d61d8327deb882cf99', '122 Bleck Street', 1, '2024-04-27 12:57:00');
+(7, 'purity', 'Purity', 'Ngugi', 'purity2004ngugi@gmail.com', '0798793313', '2a8rdhumjrdh8uind83u89dj', '22 DState House', 1, '2024-05-01 10:01:22');
 
 -- --------------------------------------------------------
 

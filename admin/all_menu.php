@@ -227,7 +227,7 @@ session_start();
              
             </div>
          
-            <footer class="footer"> © 2022 - Online Food Ordering System </footer>
+            
            
         </div>
        

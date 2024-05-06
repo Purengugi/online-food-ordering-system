@@ -381,7 +381,7 @@ if(isset($_POST['submit']))
                             </div>
                         </div>
                     </div>
-					<footer class="footer"> © 2022 - Online Food Ordering System </footer>
+					
                 </div>
                 
             </div>

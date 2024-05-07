@@ -1,11 +1,9 @@
-Password for user is "password"
+Password for all users in the database is "password";
 
-Username:eric 
-Password:password  
+E.g: Username:eric 
+     Password:password  
 
-N.B: *applies for all users in the database.
-
-Password for admin is "purefood"
+And for admin;
 
 Username:admin 
 Password:purefood

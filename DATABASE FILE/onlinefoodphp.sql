@@ -40,7 +40,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`adm_id`, `username`, `password`, `email`, `code`, `date`) VALUES
-(1, 'admin', 'CAC29D7A34687EB14B37068EE4708E7B', 'admin@mail.com', '', '2024-04-27 13:21:52');
+(1, 'admin', 'e16369007a96e8a933f5f30ba8a45208', 'admin@mail.com', '', '2024-04-27 13:21:52');
 
 -- --------------------------------------------------------
 
@@ -188,13 +188,13 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`u_id`, `username`, `f_name`, `l_name`, `email`, `phone`, `password`, `address`, `status`, `date`) VALUES
-(1, 'eric', 'Eric', 'Lopez', 'eric@mail.com', '1458965547', 'a32de55ffd7a9c4101a0c5c8788b38ed', '87 Armbrester Drive', 1, '2024-04-27 08:40:36'),
-(2, 'harry', 'Harry', 'Holt', 'harryh@mail.com', '3578545458', 'bc28715006af20d0e961afd053a984d9', '33 Stadium Drive', 1, '2024-04-27 08:41:07'),
-(3, 'james', 'James', 'Duncan', 'james@mail.com', '0258545696', '58b2318af54435138065ee13dd8bea16', '67 Hiney Road', 1, '2024-04-27 08:41:37'),
+(1, 'eric', 'Eric', 'Lopez', 'eric@mail.com', '1458965547', '5f4dcc3b5aa765d61d8327deb882cf99', '87 Armbrester Drive', 1, '2024-04-27 08:40:36'),
+(2, 'harry', 'Harry', 'Holt', 'harryh@mail.com', '3578545458', '5f4dcc3b5aa765d61d8327deb882cf99', '33 Stadium Drive', 1, '2024-04-27 08:41:07'),
+(3, 'james', 'James', 'Duncan', 'james@mail.com', '0258545696', '5f4dcc3b5aa765d61d8327deb882cf99', '67 Hiney Road', 1, '2024-04-27 08:41:37'),
 (4, 'christine', 'Christine', 'Moore', 'christine@mail.com', '7412580010', '5f4dcc3b5aa765d61d8327deb882cf99', '114 Test Address', 1, '2024-04-01 05:14:42'),
 (5, 'scott', 'Scott', 'Miller', 'scott@mail.com', '7896547850', '5f4dcc3b5aa765d61d8327deb882cf99', '63 Charack Road', 1, '2024-04-27 10:53:51'),
 (6, 'liamoore', 'Liam', 'Moore', 'liamoore@mail.com', '7896969696', '5f4dcc3b5aa765d61d8327deb882cf99', '122 Bleck Street', 1, '2024-04-27 12:57:00');
-(7, 'purity', 'Purity', 'Ngugi', 'purity2004ngugi@gmail.com', '0798793313', '2a8rdhumjrdh8uind83u89dj', '22 DState House', 1, '2024-05-01 10:01:22');
+(7, 'purity', 'Purity', 'Ngugi', 'purity@gmail.com', '7998793313', '5f4dcc3b5aa765d61d8327deb882cf99', '22 DState House', 1, '2024-05-01 10:01:22');
 
 -- --------------------------------------------------------
 

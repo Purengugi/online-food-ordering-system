@@ -1,11 +1,5 @@
 Password for all users in the database is "password";
 
-E.g: Username:eric 
-     Password:password  
-
 And for admin;
-
 Username:admin 
 Password:purefood
-
-Also note that the Paypal option in checkout is not working for now.

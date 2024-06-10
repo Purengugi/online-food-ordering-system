@@ -58,6 +58,3 @@ Contributions from the community are welcome to help improve the project. If you
 - Make your changes and ensure that all tests pass.
 - Submit a pull request detailing the changes you've made and the problem they address.
 - Ensure your code follows the project's coding style and conventions.
-
-# Contact
-If you have any questions or suggestions, feel free to contact me at purity2004ngugi@gmail.com
